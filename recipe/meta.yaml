@@ -46,6 +46,7 @@ requirements:
     - r-survival >=2.43_1
     - r-timereg >=1.9.4
     - libblas
+    - liblapack
   run:
     - r-base
     - r-rcpp
